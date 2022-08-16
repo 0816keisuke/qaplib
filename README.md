@@ -13,3 +13,17 @@ The object function is expressed as follows:
 $$
 \sum_{F} w(f_i, f_j)d(f_i, f_j)
 $$
+
+## Hot to Use
+
+To download the repository:
+
+```shell
+git clone https://github.com/0816keisuke/qaplib.git
+```
+
+To get all instances:
+
+```shell
+python3 get_instance.py
+```
