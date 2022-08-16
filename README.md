@@ -11,5 +11,5 @@ Let us define a set of F of $n$ facilities as $F=\{f_1, f_2, ..., f_n\}$.
 The object function is expressed as follows:
 
 $$
-\sum_{F} w(f_1, f_2)d(f_1, f_2)
+\sum_{F} w(f_i, f_j)d(f_i, f_j)
 $$
